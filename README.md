@@ -5,6 +5,6 @@ Hosting several subdomains in the same S3 bucket can be a great solution if you 
 Document in this repository will explain to you step-by-step how to host multiple sites with just one s3 bucket + Lambda@Edge.
 
 Requirements:
-Access to AWS console
-Access to s3, Cloudfront, Certificate Manager, and Lambda
-Own a domain
+- Access to AWS console
+- Access to s3, Cloudfront, Certificate Manager, and Lambda
+- Own a domain
